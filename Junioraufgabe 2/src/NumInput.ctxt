@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=NumInput
+comment1.params=width\ height\ start\ max\ min\ fontSize
+comment1.target=NumInput(int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ updateImage()
+comment5.params=txt\ size
+comment5.target=greenfoot.GreenfootImage\ textToImage(java.lang.String,\ int)
+comment6.params=txt
+comment6.target=greenfoot.GreenfootImage\ textToImage(java.lang.String)
+numComments=7

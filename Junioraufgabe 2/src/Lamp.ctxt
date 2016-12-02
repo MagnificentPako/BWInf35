@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Lamp
+comment0.text=\n\ Write\ a\ description\ of\ class\ Lamp\ here.\n\n\ @author\ Paul\ Kosel\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=type
+comment1.target=Lamp(Lamp.GameType)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=shouldTravel
+comment3.target=void\ updateLamp(boolean)
+comment4.params=
+comment4.target=void\ reset()
+comment5.params=
+comment5.target=void\ updateImage()
+comment6.params=
+comment6.target=Lamp.State\ getState()
+comment7.params=state
+comment7.target=void\ setState(Lamp.State)
+numComments=8

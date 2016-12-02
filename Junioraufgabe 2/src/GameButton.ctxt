@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GameButton
+comment0.text=\n\ Write\ a\ description\ of\ class\ Button\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=GameButton()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ updateImage()
+comment4.params=
+comment4.target=GameButton.State\ getState()
+comment5.params=state
+comment5.target=void\ setState(GameButton.State)
+numComments=6
